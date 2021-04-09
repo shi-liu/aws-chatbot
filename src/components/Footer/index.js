@@ -19,7 +19,7 @@ const Footer = ({classes}) => {
                 <Grid container direction="column" justify="center" alignItems="center">
                     <Grid item xs={3} align="center">
                         <Typography color="secondary" className={classes.basicFont}>
-                        Operating Hours: Everday 12pm - 10pm</Typography>
+                        Operating Hours: Everday 12pm - 10pm | Location: 123 Maple Street</Typography>
                     </Grid>
                     <Grid item xs={3} align="center">
                         <Typography color="secondary" className={classes.basicFont}>
