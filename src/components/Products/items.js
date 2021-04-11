@@ -7,7 +7,7 @@ export const productData = [
         alt: "Chicken",
         name: "Spicy Chicken",
         flavors: "Fried, Grilled, Baked",
-        desc: "Red pepper flakes, basil, garlic, potatoes, green onions, black pepper, and Maze Sauce",
+        desc: "Red pepper flakes, Basil, Garlic, Potatoes, Green onions, Black pepper, and Maze Sauce",
         price: "$8.50",
         button: "Add to Cart"
     },
@@ -16,7 +16,7 @@ export const productData = [
         alt: "Steak",
         name: "Steak",
         flavors: "Rare, Medium Rare, Medium",
-        desc: "Thyme, basil, garlic, asparagus, mushrooms, red papper, black pepper, and Maze Sauce",
+        desc: "Thyme, Basil, Garlic, Asparagus, Mushrooms, Red pepper, Black pepper, and Maze Sauce",
         price: "$15.99",
         button: "Add to Cart"
     },
